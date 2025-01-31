@@ -28,18 +28,8 @@
 ---
 
 ### 🎯 Focused On:
-- 🌐 Full-stack development with a focus on creating scalable, performance-driven applications
+- 🌐 Web development with a focus on creating scalable, performance-driven applications
 - 🧠 Deepening my understanding of **Data Structures & Algorithms (DSA)**
-- 💡 Contributing to open-source, collaborating with like-minded developers, and building a knowledge base
 
----
-
-### 🚀 Currently Working On:
-- 📚 Building an **Admissions Agency** to help students navigate university applications
-- 💼 Developing projects to level up my portfolio, including a **Job Posting Bot** and **Student Management System**
-
----
-
-Feel free to reach out, collaborate, or check out my repositories. Let's build something **awesome**! 🌟
 
 ---
