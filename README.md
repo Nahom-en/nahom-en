@@ -31,5 +31,4 @@
 - 🌐 Web development with a focus on creating scalable, performance-driven applications
 - 🧠 Deepening my understanding of **Data Structures & Algorithms (DSA)**
 
-
 ---
