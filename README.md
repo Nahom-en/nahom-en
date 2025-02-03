@@ -23,7 +23,8 @@
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahom-en&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahom-en&theme=radical&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahom-en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahom-en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=nahom-en&theme=radical&hide_border=true)
 
 ---
 
