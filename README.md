@@ -27,8 +27,7 @@ I’ve built backend systems using:
 - **Git & GitHub**
 - **Postman**
 - **Notion**
-- **REST API testing & debugging**
-- **Clean code & modular architecture**
+
 
 ---
 
